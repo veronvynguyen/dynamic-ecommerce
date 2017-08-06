@@ -1,0 +1,575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userProfile"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"EMAIL",
+				"EMAIL_HOST"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"bold",
+				"bold"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"nt",
+				"nth-child"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Library/WebServer/Documents/thegamingplace/.htaccess",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Library/WebServer/Documents/thegamingplace/application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 4534,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Library/WebServer/Documents/thegamingplace/application/config/config.php",
+			"settings":
+			{
+				"buffer_size": 18459,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 340.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Library/WebServer/Documents/thegamingplace/htcaccess",
+		"/Applications/MAMP/htdocs/thegamingplace/application/config/config.php",
+		"/Applications/MAMP/htdocs/thegamingplace/application/.htaccess",
+		"/Applications/MAMP/htdocs/thegamingplace/application/config/database.php",
+		"/Applications/MAMP/htdocs/thegamingplace/htcaccess",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/vynguyen/shopping-cart/views/user/profile.hbs",
+		"/Users/vynguyen/Desktop/tryTen/src/profiles/tests.py",
+		"/Users/vynguyen/Desktop/tryTen/src/profiles/views.py",
+		"/Users/vynguyen/Desktop/tryTen/src/contact/views.py",
+		"/Users/vynguyen/Desktop/tryTen/src/tryTen/urls.py",
+		"/Users/vynguyen/Desktop/tryTen/src/contact/templates/contact.html",
+		"/Users/vynguyen/Desktop/tryTen/src/contact/forms.py",
+		"/Users/vynguyen/Desktop/tryTen/static/static/css/bootstrap.min.css",
+		"/Users/vynguyen/Desktop/tryTen/src/profiles/templates/account/logout.html",
+		"/Users/vynguyen/Desktop/tryTen/src/profiles/templates/account/signup.html",
+		"/Users/vynguyen/Desktop/tryTen/src/tryTen/settings.py",
+		"/Users/vynguyen/Desktop/tryTen/src/profiles/templates/base.html",
+		"/Users/vynguyen/Desktop/tryTen/src/profiles/templates/account/login.html",
+		"/Users/vynguyen/Desktop/tryTen/static/static/javascript/docs.min.js",
+		"/Users/vynguyen/Desktop/tryTen/src/profiles/templates/home.html",
+		"/Users/vynguyen/Desktop/tryTen/src/profiles/templates/about.html",
+		"/Users/vynguyen/Desktop/tryTen/src/profiles/admin.py",
+		"/Users/vynguyen/Desktop/tryTen/src/profiles/templates/navbar.html",
+		"/Users/vynguyen/Desktop/tryTen/src/profiles/models.py",
+		"/Users/vynguyen/Desktop/tryTen/static/static/css/main.css",
+		"/Users/vynguyen/Desktop/tryTen/static/static-only/javascript/docs.min.js",
+		"/Users/vynguyen/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/vynguyen/Desktop/tryTen/tryTen.sublime-text",
+		"/Users/vynguyen/Desktop/helloworld.py",
+		"/Users/vynguyen/Desktop/app.yami",
+		"/Users/vynguyen/Documents/Web Projects/Wordpress themes/themeforest-4277313-forkbite-food-recipe-and-restaurant-theme/forkbite/include/cs_meta_box.php",
+		"/Users/vynguyen/Desktop/Kris-B-nanoGALLERY-d6c745e 2/css/nanogallery.css",
+		"/Users/vynguyen/Desktop/Kris-B-nanoGALLERY-d6c745e 2/css/themes/clean/nanogallery_clean.css",
+		"/Users/vynguyen/Documents/Web Projects/diamondseafoodpalace/css/jquery-photowall.css",
+		"/Users/vynguyen/Documents/Web Projects/diamondseafoodpalace/css/index.css",
+		"/Users/vynguyen/Documents/Web Projects/diamondseafoodpalace/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/css/contact.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/contact/css/contactform.css",
+		"/Users/vynguyen/Documents/Coding Exercises/contactFormSite/contact.php",
+		"/Users/vynguyen/Documents/Coding Exercises/contactFormSite/php.txt",
+		"/Users/vynguyen/Documents/Coding Exercises/contactFormSite/css/contactform.css",
+		"/Users/vynguyen/Documents/Coding Exercises/contactFormSite/head.txt",
+		"/Users/vynguyen/Documents/Coding Exercises/contactFormSite/form.html",
+		"/Users/vynguyen/Documents/Web Projects/diamondseafoodpalace/php/send_form_email.php",
+		"/Users/vynguyen/Documents/Web Projects/diamondseafoodpalace/contactform.html",
+		"/Users/vynguyen/Documents/Web Projects/diamondseafoodpalace/form_process.php",
+		"/Users/vynguyen/Documents/Web Projects/diamondseafoodpalace/send_contact_form.php",
+		"/Users/vynguyen/Documents/Web Projects/diamondseafoodpalace/js/responsiveslides.min.js",
+		"/Users/vynguyen/Documents/Web Projects/diamondseafoodpalace/javascript/main.js",
+		"/Users/vynguyen/Documents/Web Projects/milgard/css/windowStyle.css",
+		"/Users/vynguyen/Documents/Web Projects/milgard/windowsMenu.html",
+		"/Users/vynguyen/Documents/Web Projects/milgard/css/windowsMenu.css",
+		"/Users/vynguyen/Documents/Web Projects/milgard/main.js",
+		"/Users/vynguyen/Dropbox/Designs CSS/films/css/indiv-style.css",
+		"/Users/vynguyen/Documents/Designs CSS/films/css/style2.css",
+		"/Users/vynguyen/Documents/forsd.js",
+		"/Users/vynguyen/Documents/Designs CSS/theater/theater.html",
+		"/Users/vynguyen/Documents/Designs CSS/theater/css/style.css",
+		"/Users/vynguyen/Documents/Designs CSS/notif popups/connect/connected.html",
+		"/Users/vynguyen/Documents/Designs CSS/notif popups/connect/sender.html",
+		"/Users/vynguyen/Documents/Designs CSS/notif popups/connect/recipient.html",
+		"/Users/vynguyen/Documents/Designs CSS/popups/connect/connected.html",
+		"/Users/vynguyen/Documents/Designs CSS/popups/connect/request.html",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/messaging.html",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/dropdown2.html",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/dropdown.html",
+		"/Users/vynguyen/Documents/Designs CSS/seeall/attheaters/css/style.css",
+		"/Users/vynguyen/Documents/Designs CSS/seeall/stubs/css/style.css",
+		"/Users/vynguyen/Documents/Designs CSS/seeall/sug/css/style.css",
+		"/Users/vynguyen/Documents/Designs CSS/seeall/attheaters/attheaters.html",
+		"/Users/vynguyen/Documents/Designs CSS/seeall/sug/sug.html",
+		"/Users/vynguyen/Documents/Designs CSS/public profile/reviews/css/style.css",
+		"/Users/vynguyen/Documents/Designs CSS/public profile/reviews/review.html",
+		"/Users/vynguyen/Documents/Designs CSS/public profile/attheaters/attheaters.html",
+		"/Users/vynguyen/Documents/Designs CSS/public profile/attheaters/css/style.css",
+		"/Users/vynguyen/Documents/test/speech/speechbubble.html",
+		"/Users/vynguyen/Documents/Designs CSS/public profile/stubs/css/style.css",
+		"/Users/vynguyen/Documents/Designs CSS/public profile/stubs/stubs.html",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/messaging2.html",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/css/style2.css",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/messaging3.html",
+		"/Users/vynguyen/Dropbox/Designs CSS/review/css/style.css",
+		"/Users/vynguyen/Dropbox/Designs CSS/confirm/css/style.css",
+		"/Users/vynguyen/Documents/Designs CSS/review/review.html",
+		"/Users/vynguyen/Documents/Designs CSS/review/spansnipper.html",
+		"/Users/vynguyen/Documents/Designs CSS/review/css/style2.css",
+		"/Users/vynguyen/Documents/Designs CSS/review/review2.html",
+		"/Users/vynguyen/Documents/test/reportdropdown.html",
+		"/Users/vynguyen/Documents/Designs CSS/review/review-backup.css",
+		"/Users/vynguyen/Documents/Designs CSS/review/review-backup.html",
+		"/Users/vynguyen/Documents/Designs CSS/review/javascript/review.js",
+		"/Users/vynguyen/Documents/Designs CSS/review/review.js",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/javascript/messaging.js",
+		"/Users/vynguyen/Documents/messaging2.js",
+		"/Users/vynguyen/Documents/messaging2.html",
+		"/Users/vynguyen/Documents/Designs CSS/messaging-backup.css",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/messaging.js",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/newmes/css/style.css",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/newmes/newmes.html",
+		"/Users/vynguyen/Documents/test/testjava2.html",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/stickers/stickers.html",
+		"/Users/vynguyen/Documents/test/testjava.html",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/stickers/css/style.css",
+		"/Users/vynguyen/Documents/stickers.js",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/style.css",
+		"/Users/vynguyen/Documents/Designs CSS/messaging/stickers.html",
+		"/Users/vynguyen/Documents/test/mesbox.html",
+		"/Users/vynguyen/Documents/mes-backup.html",
+		"/Users/vynguyen/Dropbox/poo pi/poopi.html",
+		"/Users/vynguyen/Documents/poo pi/moments/css/style.css",
+		"/Users/vynguyen/Documents/poo pi/moments/moments.html",
+		"/Users/vynguyen/Documents/poo pi/xa/css/style.css",
+		"/Users/vynguyen/Documents/poo pi/xa/xa.html",
+		"/Users/vynguyen/Documents/poo pi/poo/css/style.css",
+		"/Users/vynguyen/Documents/poo pi/poo/poo.html",
+		"/Users/vynguyen/Documents/poo pi/css/style.css",
+		"/Users/vynguyen/Documents/poo pi/poopi.html",
+		"/Users/vynguyen/Documents/poo pi/moments/style.css",
+		"/Users/vynguyen/Documents/poo pi/style.css",
+		"/Users/vynguyen/Documents/poo pi/xamap.html",
+		"/Users/vynguyen/Documents/Designs CSS/edit profile/reviews/reviewbackup.html",
+		"/Users/vynguyen/Documents/Designs CSS/test/blockquotes.html",
+		"/Users/vynguyen/Documents/Designs CSS/test/test2.html",
+		"/Users/vynguyen/Documents/Designs CSS/test/float.html",
+		"/Users/vynguyen/Documents/Designs CSS/edit profile/attheaters/css/style.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"base_url",
+			"allowover",
+			"allow",
+			"		  )",
+			"stripetoken",
+			">\n",
+			"    ",
+			"DEBUG=True",
+			"ie-emulation-modes-warning",
+			"viewport",
+			"gdl-button",
+			"appetizer",
+			"checkbox",
+			"include the file",
+			"id",
+			"password",
+			"col-lg-1",
+			"containerparent",
+			"container",
+			"sample",
+			"nanogallery3",
+			"sample #3",
+			"sample 3",
+			"wowslider",
+			"p",
+			"comment",
+			"please enter",
+			"footer",
+			"googlemap",
+			"formwrap",
+			"http://diamondseafoodpalaceoc.com/admin/",
+			"http://diamondseafoodpalace.com",
+			"http://diamondseafoodpalaceoc.com/admin/",
+			"border-top",
+			"border-bottom",
+			"submit",
+			"h6",
+			"font-family: \"Arial\", \"Helvetica\", sans-serif;",
+			"input",
+			"error",
+			"comments",
+			"input",
+			"submit",
+			"dinner",
+			"menus",
+			"banquets",
+			"bottom",
+			"<div class=\"second-column\">",
+			"</span>",
+			"touch swipe",
+			"src",
+			"script",
+			"review",
+			".conn-load",
+			"0px",
+			"connection",
+			"umbrella",
+			"umbrellas",
+			"umbrella",
+			"search",
+			"figcaption",
+			"theater",
+			"h6",
+			"h5",
+			"h3",
+			"h1",
+			"h2",
+			"h1",
+			"2015",
+			"Los Angeles",
+			"a class=\"theater\"",
+			"cinefamily",
+			"a class=\"city\"",
+			"getty villa",
+			".theater",
+			"article.movie",
+			"section.sort",
+			"intheaters/",
+			"spotlight/",
+			"console.log",
+			"curator/",
+			"figure",
+			".inbox-nav",
+			"ficaption",
+			"rating cinee",
+			"rating cinees",
+			"rating cinee",
+			"rating",
+			"movie-title",
+			"figcaption",
+			"sort",
+			"header",
+			"section.poster",
+			"section.addcal",
+			"section.theater",
+			"section.credits",
+			"h1",
+			"<li>\n									Spotlight\n								</li>",
+			"<a href=\"#\">Spotlight</a>",
+			"<hr>",
+			"hr",
+			"view details",
+			".theaters",
+			"</img>",
+			"310-",
+			"310",
+			"view details",
+			".options",
+			"view details",
+			"hr",
+			"ul ul li",
+			"wrapper",
+			"220px",
+			"section.movie",
+			".inbox-nav",
+			"content",
+			"strangers",
+			"article class=\"now\"",
+			"figcaption",
+			"View details",
+			"Directions",
+			"Direcitons",
+			"\n						<li><a href=\"#\">Hours</a></li>",
+			"now playing",
+			"hr",
+			"z-index: 2",
+			"z-index: 1;",
+			"z-index"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Library/WebServer/Documents/thegamingplace/.htaccess",
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Library/WebServer/Documents/thegamingplace/application/config/database.php",
+					"settings":
+					{
+						"buffer_size": 4534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 12.0,
+						"translation.y": 1119.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Library/WebServer/Documents/thegamingplace/application/config/config.php",
+					"settings":
+					{
+						"buffer_size": 18459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								959,
+								959
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 308.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"not",
+				"/Users/vynguyen/Documents/Designs CSS/messaging/css/style.css"
+			],
+			[
+				"",
+				"/Users/vynguyen/Documents/Designs CSS/messaging/messaging.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
